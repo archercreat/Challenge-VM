@@ -8,7 +8,7 @@ flag format:
             justCTF - justCTF{something_h3re!}
             SVATTT2018 - SVATTT2018{}
             SVATTT2020 - ASCIS{}
-            CODEGATE_CTF_2020 - CODEGATE{}
+            CODEGATE_CTF_2020 - CODEGATE2020{}
             X-MAS CTF -> X-MAS{}
             ISITDTU CTF -> ISITDTU{}
             KipodAfterFree CTF - KAFCTF{}
