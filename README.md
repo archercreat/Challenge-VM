@@ -2,6 +2,7 @@
 Practice VM - 
 Bài có đầy đủ các dạng VM từ dễ tới khó, riêng bài ROOT POWER - Google Capture The Flag 2020 thì vô link này tải: https://g.co/ctf
 flag format: 
+```python
             HITCON CTF - hitcon{}
             Layer7 CTF - LAYER7{}
             m0leC0nCTF - ptm{}
@@ -12,4 +13,5 @@ flag format:
             X-MAS CTF -> X-MAS{}
             ISITDTU CTF -> ISITDTU{}
             KipodAfterFree CTF - KAFCTF{}
+```
 Have fun and good luck !!!
